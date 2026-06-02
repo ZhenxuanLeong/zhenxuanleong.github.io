@@ -1,0 +1,46 @@
+﻿# NexT Theme Config
+# Scheme
+scheme: Gemini
+
+# Dark mode
+darkmode: true
+
+# Menu
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
+
+# Avatar
+avatar:
+  url: # /images/avatar.png
+  rounded: true
+
+# Social links
+social:
+  GitHub: https://github.com/ZhenxuanLeong || fab fa-github
+
+# Footer
+footer:
+  since: 2026
+
+# Code block
+codeblock:
+  border_radius: 8
+  copy_button:
+    enable: true
+    style: flat
+
+# Reading progress
+reading_progress:
+  enable: true
+
+# Back to top
+back2top:
+  enable: true
+  sidebar: true
+
+# Local search
+local_search:
+  enable: false
